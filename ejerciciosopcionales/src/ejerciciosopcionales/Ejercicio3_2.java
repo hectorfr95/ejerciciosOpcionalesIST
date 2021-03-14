@@ -158,7 +158,7 @@ public class Ejercicio3_2 {
 		int year11=2013;
 		int month11=2;
 		int date11=1;
-		fecha_fabricacion11.set(year8, month8, date8);
+		fecha_fabricacion11.set(year11, month11, date11);
 		int memoria_RAM11=2520;
 		float promedio_batery11= (float) 4.9 ;
 		String [] protocolos_sec11= {"WEP","WPA2"};
